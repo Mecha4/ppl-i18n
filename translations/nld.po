@@ -1,14 +1,14 @@
 #: ../client/application/ui/ui_helpers.cpp:63
 msgid "on"
-msgstr ""
+msgstr "aan"
 
 #: ../client/application/ui/ui_helpers.cpp:64
 msgid "off"
-msgstr ""
+msgstr "uit"
 
 #: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
-msgstr ""
+msgstr "oke"
 
 #. Shown in a notification when a new version of the game is
 #. available.
@@ -16,119 +16,119 @@ msgstr ""
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "Update beschikbaar %s"
 
 #: ../client/application/game/game.cpp:163
 msgid "Quick pause"
-msgstr ""
+msgstr "Korte pauze"
 
 #: ../client/application/game/game.cpp:169
 msgid "Quick pause %s"
-msgstr ""
+msgstr "Korte pauze %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
-msgstr ""
+msgstr "Verdergaan"
 
 #: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
-msgstr ""
+msgstr "Pauze"
 
 #: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
-msgstr ""
+msgstr "Herstart"
 
 #: ../client/application/game/ui/pause_ui.cpp:72
 msgid "Exit"
-msgstr ""
+msgstr "Uitgaan"
 
 #: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
-msgstr ""
+msgstr "Speel opnieuw"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
-msgstr ""
+msgstr "Spel verloren"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
-msgstr ""
+msgstr "Gefaald om antwoorden te verdelen"
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
-msgstr ""
+msgstr "Gefaald om de server te bereiken"
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
-msgstr ""
+msgstr "Officiële levels"
 
 #: ../client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
-msgstr ""
+msgstr "Communitie levels"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr ""
+msgstr "Speel aantal: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr ""
+msgstr "Tijd gespeeld: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
-msgstr ""
+msgstr "Simpel"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "Gefaald om in te loggen!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
-msgstr ""
+msgstr "Level aan het downloaden..."
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
-msgstr ""
+msgstr "Met de server aan het verbinden"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
 msgid "IP:"
-msgstr ""
+msgstr "IP:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:58
 msgid "Port:"
-msgstr ""
+msgstr "Poort:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "Verbind met een andere ruimte over het internet #ff0000ff(experimentaal)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:78
 msgid "Connect"
-msgstr ""
+msgstr "Verbind"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:24
 msgid "Enter password"
-msgstr ""
+msgstr "Voer wachtwoord in"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:26
 msgid "Join"
-msgstr ""
+msgstr "Meedoen"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:40
 msgid "Password:"
-msgstr ""
+msgstr "Wachtwoord:"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:92
 msgid "Configure joysticks"
-msgstr ""
+msgstr "Joysticks veranderen"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:106
 msgid "Swap"
-msgstr ""
+msgstr "Verwissel"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:111
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:21
 msgid "Select multiplayer type"
